@@ -1,0 +1,13 @@
+/Users/adityamishra/opt/anaconda3
+/Users/adityamishra/.conda/envs/tf
+/Users/adityamishra/.conda/envs/MLtutorial
+/Users/adityamishra/.conda/envs/nlptut
+/Users/adityamishra/.conda/envs/pythonProject4
+/Users/adityamishra/.conda/envs/pythonProject5
+/Users/adityamishra/.conda/envs/pythonProject6
+/Users/adityamishra/.conda/envs/myDjangoEnv
+/Users/adityamishra/.conda/envs/djangolvl2
+/Users/adityamishra/.conda/envs/MLTUT
+/Users/adityamishra/opt/anaconda3/envs/env_tensorflow
+/Users/adityamishra/opt/miniconda3
+/Users/adityamishra/miniforge3
